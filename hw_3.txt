@@ -1,0 +1,7 @@
+   0 date > newfile.txt
+   1 df -h / >> newfile.txt 
+   2 history -n 5 >> newfile.txt 
+   3 cat /proc/cpuinfo | grep -i "vendor" >> newfile.txt 
+   4 nano newfile.txt 
+   5 cat newfile.txt 
+   6 history > hw_3.txt
