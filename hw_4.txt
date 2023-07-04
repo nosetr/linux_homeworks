@@ -1,0 +1,8 @@
+   0 cd /tmp
+   1 vi file.txt
+   2 df -h | head -3 >> file.txt
+   3 cat file.txt
+   4 ls -l
+   6 chmod 065 file.txt
+   7 ls -l
+   8 history > hw_4.txt
